@@ -1,4 +1,4 @@
-# Scalatron_Bot (CODE QUALITY IS REALLY BAD THERE BECAUSE I DON'T CARE AND AM VERY LAZY)
+# Scalatron_Bot (CODE QUALITY IS REALLY BAD THERE BECAUSE I DON'T CARE AND I'M VERY LAZY)
 Bot built on top of the Scalarton's "reference" bot.
 
 Added new slave bot types:
