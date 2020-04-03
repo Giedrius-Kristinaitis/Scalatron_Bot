@@ -1,5 +1,5 @@
 # Scalatron_Bot (CODE QUALITY IS REALLY BAD THERE BECAUSE I DON'T CARE AND I'M VERY LAZY)
-Bot built on top of the Scalarton's "reference" bot.
+Bot built on top of the Scalarton's "reference" bot. More about scalatron: https://scalatron.github.io/
 
 Added new slave bot types:
 * Landmine
